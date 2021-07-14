@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paulo
 - 👀 I’m interested in backend and frontend programing
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning Full Stack development .NET
 - 💞️ I’m looking my first job oportunity in sector IT.
 - 📫 Contact me for e-mail: pmlascirignola@hotmail.com
 
