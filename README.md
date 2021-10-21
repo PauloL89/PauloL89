@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paulo
-- 👀 I’m interested in backend and frontend programing
+- 👀 I’m interested in backend programing
 - 🌱 Currently I am doing the university technical degree in programming at the UTN FRC
 - 💞️ I work as a jr developer in Sancor Seguros.
 - 📫 Contact me for e-mail: pmlascirignola@hotmail.com
